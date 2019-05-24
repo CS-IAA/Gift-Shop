@@ -1,0 +1,2 @@
+# Gift-Shop
+The customer, who is located in the United States, is buying and sending a gift of their choice to someone of another country. They must enter their's and the receiver's names and residential information along with the shipping type. They must enter a message to the receiver and select a gift. The zip codes that they enter must be 5 digits and cannot be negative numbers. They also cannot include decimals.
